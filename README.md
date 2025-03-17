@@ -2,6 +2,12 @@
 
 Designed and implemented a multi-page static website for a restaurant, including homepage, menu, booking, ordering food, and contact pages.
 
+---
+### 📌 Preview & Demo
+🔗 [Live Demo](https://radhe-restaurant.netlify.app/) (LIVE URLs...)
+
+---
+
 ## 🚀 Features
 - 🍛 View different types of traditional foods
 - 📜 Browse through a food menu
@@ -30,8 +36,6 @@ Designed and implemented a multi-page static website for a restaurant, including
 This website is designed with carefully selected fonts and icons to enhance the visual appeal and user experience. It maintains a clean and modern aesthetic while ensuring responsiveness across different devices.
 
 ---
-### 📌 Preview & Demo
-🔗 [Live Demo](#) (Replace with actual link)
 
 Feel free to ⭐ star this project on GitHub if you like it! 🚀
 
